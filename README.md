@@ -30,7 +30,7 @@ I'am computer science student who are intresting in web development with react.j
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
                     
-                  ### Socials
+ ### Socials
    <p align="left">
                           
                       <a href="https://www.github.com/mekki14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>

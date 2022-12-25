@@ -11,8 +11,8 @@ I'am computer science student who are intresting in web development with react.j
 *   ✉️  You can contact me at [fayssaldeve@gmail.com](mailto:fayssaldeve@gmail.com)
 *   🧠  I'm learning react.js
 *   🤝  I'm open to collaborating on restuarent website and coffee shop and some saas company
-*   
-*   <a href="https://www.github.com/mekki14" target="_blank" rel="noreferrer"><imgsrc="https://img.shields.io/github/followers/mekki14?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
+ 
+<a href="https://www.github.com/mekki14" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/mekki14?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a>
  
  ### Skills 
 <p align="left">
